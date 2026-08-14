@@ -6,5 +6,5 @@ tgcrypto
 py-tgcalls
 python-dotenv
 youtube-search-python
-spotipy
+spotipy>=2.22.0
 git+https://github.com/PyrogramMod/PyrogramMod.git
